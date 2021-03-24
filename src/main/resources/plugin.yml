@@ -1,0 +1,5 @@
+name: MobCoinsCrate
+author: peNNNk
+main: com.peNNNk.MobCoinsCrate.Main
+depend: [MobCoinsPlus, CrazyCrates, Citizens]
+version: 1.0.0

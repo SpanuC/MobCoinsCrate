@@ -1,0 +1,11 @@
+commands:
+  1:
+    npc: 0
+    coins: 500
+    crate: "Basic"
+    enable-messages: false
+    messages:
+    - "&6 \u25ba &fYou open &aBasic&f crate."
+    no-coins-message: true
+    no-coins-messages:
+    - "&6\u25ba &fYou don't have enought &ecoins&f! &6(%coins%)"
